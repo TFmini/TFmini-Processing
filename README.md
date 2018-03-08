@@ -5,6 +5,11 @@ TFmini's Processing Examples.
 - [tfminiGUI](#tfminigui)  
 
 ## tfminiConsole  
+
+Link TFmini and PC using CP210x, CH341 etc USB to Serial (Maybe you need install their chip driver for OS):  
+
+![USB2Serial](/Assets/USB2Serial.png)  
+
 `myPort = new Serial(this, "COM12", 115200);`  
 Change "COM12" to tfmini serial from device manager;   
 
