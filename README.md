@@ -1,12 +1,12 @@
-# TFmini-Processing
-TFmini's Processing Examples.   
+# TFmini(Plus)-Processing
+TFmini(Plus)'s Processing Examples.   
 
-- [tfminiConsole](#tfminiconsole)  
-- [tfminiGUI](#tfminigui)  
+- [tfmini(Plus)Console](#tfminiconsole)  
+- [tfmini(Plus)GUI](#tfminigui)  
 
 ## tfminiConsole  
 
-Link TFmini and PC using CP210x, CH341 etc USB to Serial (Maybe you need install their chip driver for OS):  
+Link TFmini(Plus) and PC using CP210x, CH341 etc USB to Serial (Maybe you need install their chip driver for OS):  
 
 ![USB2Serial](/Assets/USB2Serial.png)  
 
