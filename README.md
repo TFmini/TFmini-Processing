@@ -4,7 +4,7 @@ TFmini(Plus)'s Processing Examples.
 - [tfmini(Plus)Console](#tfminiconsole)  
 - [tfmini(Plus)GUI](#tfminigui)  
 
-## tfminiConsole  
+## tfmini(Plus)Console  
 
 Link TFmini(Plus) and PC using CP210x, CH341 etc USB to Serial (Maybe you need install their chip driver for OS):  
 
@@ -56,7 +56,7 @@ update() can be used in serialEvent(). Output is (distance: cm, strength).
 
 
 
-## tfminiGUI  
+## tfmini(Plus)GUI  
 `myPort = new Serial(this, "COM12", 115200);`  
 Change "COM12" to tfmini serial from device manager;   
 
